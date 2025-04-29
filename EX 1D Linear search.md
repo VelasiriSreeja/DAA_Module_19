@@ -5,7 +5,7 @@ To write a a python program to implement the quick sort using recursion.
 
 ## Algorithm
 ```
-Step 1: Start
+Step 1: Start 
 Step 2: Select a pivot element from the list
 Step 3: Partition the list into two sublists: elements less than pivot and elements greater than pivot
 Step 4: Recursively apply quick sort to both sublists
